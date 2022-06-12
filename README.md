@@ -8,4 +8,4 @@ En este repositorio se encuentra el código de la solución del punto 2 -> https
 
 Asimismo, se encuentra un documento PDF en el desarrollé los puntos 1 y 3 y adjunté la imágen del diagrama de clases del punto 2 -> https://github.com/HJRumbo/ParcialPDD/blob/master/DocumentoParcial.pdf.
 
-Por último, adjunto el archivo de StarUml en el que se encuentra el diagrama de clases del punto 2 -> 
+Por último, adjunto el archivo de StarUml en el que se encuentra el diagrama de clases del punto 2 -> https://github.com/HJRumbo/ParcialPDD (Parcial.mdj)
