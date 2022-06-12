@@ -1,4 +1,4 @@
-Parcial de patrones de diseño.
+# Parcial de patrones de diseño.
 
 Esta es mi solución del parcial de patrones de diseño. Esta solución la desarrollé haciendo uso de los concpetos vistos en clase, estos conceptos son: 
 - Pilares de la POO (Abstración, Herencia, Polimorfismo y encapsulamiento).
